@@ -1,0 +1,7 @@
+{
+    "elastic": {
+      "cloudID": "https://search-testing-zrzejobm6lpkb67yx2u7cjwqg4.ap-south-1.es.amazonaws.com", 
+      "username": "admin",
+      "password": "Password@000"
+    }
+  }
